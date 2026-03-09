@@ -10,5 +10,4 @@
 - Node.js
 
 
-
-📫 emiliosolerdeveloper@gmail.com
+  ✉️soleralbelda@gmail.com✉️
